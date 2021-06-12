@@ -244,7 +244,7 @@ figcaption { font: 110% 'Lora'; text-align: center;}
         grid-template-areas: 
             "col-left col-center col-center"
             "col-left col-right col-right";
-        margin: 0 5%;
+        /* margin: 0 5%; */
         grid-gap: 25px;
         padding-top:40px;
     }
